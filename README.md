@@ -8,7 +8,7 @@ Here's what I love to do outside of coding:
 - 🌆 Exploring cities + languages
 
 <h2>Find me!</h2>
-<img align="left" alt="Deborah's LinkedIN" width="22px" src="https://raw.githubusercontent.com/deborahengelberg/deborahengelberg/master/assets/linkedin.svg" /> <a href="https://www.linkedin.com/in/deborahengelberg/"> 
+<a href="https://www.linkedin.com/in/deborahengelberg/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
 
 
 
