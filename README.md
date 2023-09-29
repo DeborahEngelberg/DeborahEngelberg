@@ -1,6 +1,6 @@
 <h1><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hey! Nice to see you.</h1>
 
-I’m a computer science major at Brandeis who loooooves writing code all day every day
+I’m a computer science major at Brandeis who loooooves writing code all day every day. Many of my repos are private, however, if you would like to check them out, feel free to reach me via LinkedIn!
 
 Here's what I love to do outside of coding:
 - 🎾 Trying to be like my fellow Austrian Dominic Thiem
